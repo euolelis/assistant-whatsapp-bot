@@ -1,0 +1,7 @@
+Flask
+gunicorn
+python-dotenv
+requests
+openai
+google-cloud-aiplatform
+groq
